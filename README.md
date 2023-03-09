@@ -54,6 +54,6 @@ Logistic Regression predict 3 label (Positive as 5,4 star - Neutral as 3 star - 
 
 ![image](https://user-images.githubusercontent.com/83870939/224073853-ee9d7c09-eb9c-41fe-85a4-f99b2070ab1d.png)
 
-## Optional
+# Optional
 
-The notebook Sentiment_Analysis_Pretrained.ipynb for practise use Pretrained-Model for sentiment analysis: Vader(Sentiment Intensive Analyze), Roberta, DistilBERT, XLNet, transformer_pipeline from Transformer
+The notebook Sentiment_Analysis_Pretrained_Model.ipynb for practise use Pretrained-Model for sentiment analysis: Vader(Sentiment Intensive Analyze) from NLTK, Roberta, DistilBERT, XLNet, transformer_pipeline from Transformer
