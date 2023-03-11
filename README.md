@@ -14,6 +14,8 @@ Source dataset Amazon's reviewed products:  https://s3.amazonaws.com/amazon-revi
 
 I use this dataset for fine-grained sentiment analysis (Positive - Neutral - Negative or following a number of star rating)
 
+I have try to crawl Review product on Shopee for Vietnamese language but Shopee require Authorization for access API to crawl so If you wanna try it follow this: https://banhang.shopee.vn/edu/article/8497 . Then you can use BeautifulSoup for crawl data from url you want. Or if you can find any website that public for Web Scraping you don't have to any authorization, you can check it by direction robot.txt. For example, shopee.vn/robots.txt it show you which is allow and disallow
+
 ## Common Table content
 
 ### 1. Exploratory Data Analysis: Visualization, astype grade, shuffle and pick up sample
